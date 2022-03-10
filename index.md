@@ -44,8 +44,8 @@
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)). -->
 
-<center><img src="images/fake_news_spreader_image_1.png?raw=true"/></center>
-<center><img src="images/fake_news_spreader_image_2.png?raw=true"/></center>
+<center><img src="images/fake_news_spreader_1.png?raw=true"/></center>
+<center><img src="images/fake_news_spreader_2.png?raw=true"/></center>
 
 ## Robustness of Recommender System
 
