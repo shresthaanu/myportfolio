@@ -1,10 +1,11 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Applied Deep Learning
 
-### CS224n: Natural Language Processing with Deep Learning
+### LSTM Autoencoder based Framework
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+[Detect Fraudulent Users in e-Commerce Platforms](/Paper/deeptrust.pdf)
+<img src="images/deeptrust_image.png?raw=true"/>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
