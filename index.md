@@ -6,11 +6,7 @@
 
 [Detect Fraudulent Users in e-Commerce Platforms](/Paper/deeptrust.pdf)
 
-<!-- [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)). -->
+** DeepTrust** An unsupervised deep recurrent neural network based model build to generate embeddings aggregating temporal information: we consider users' behavior over time, as they review multiple products. We model the interactions of reviewers and the products they review using a temporal bipartite graph and consider the context of each rating by including other reviewers' ratings of the same items. We carry out extensive experiments on a real-world dataset of Amazon reviewers to detect trustworthy, unreliable and fraudulent reviewers.
 
 <center><img src="images/deeptrust_image.png?raw=true"/></center>
 
